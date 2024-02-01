@@ -10,8 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "prettier": "^3.2.4",
+    "react": "^18.3.0-canary-247738465-20240130",
+    "react-dom": "^18.3.0-canary-247738465-20240130"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
